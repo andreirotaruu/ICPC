@@ -18,18 +18,5 @@ def main():
 
     print(f"Best price: {best}")
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     main()

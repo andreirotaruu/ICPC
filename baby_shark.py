@@ -1,4 +1,3 @@
-
 def main():
     inp = "baby baby shark shark shark doo doo"
     words = inp.split()
@@ -21,10 +20,6 @@ def main():
         prev = words[i]
 
     print(f"Most frequent word {max_word}")
-
-
-
-
 
 
 if __name__ == "__main__":
